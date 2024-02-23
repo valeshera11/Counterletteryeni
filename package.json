@@ -1,13 +1,17 @@
 {
   "name": "counterletteryeni",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The package that returns how many characters the string expression sent to him is",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "dev": "node src/index.js"
   },
-  "keywords": ["Counter", "Letter", "X"],
+  "keywords": [
+    "Counter",
+    "Letter",
+    "X"
+  ],
   "author": "valeshera11",
   "license": "MIT"
 }
